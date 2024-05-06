@@ -1,3 +1,3 @@
 """Initialization"""
 
-from pulsenlodev.nlo_model import *
+from lasertools_pulsenlo.nlo_model import *

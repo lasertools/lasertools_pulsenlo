@@ -1,7 +1,7 @@
 """Define an NLO model template"""
 import scipy as sp
 import numpy as np
-from rffthelperdev import Axes
+from lasertools_rffthelper import Axes
 
 
 class _NLOBase:
